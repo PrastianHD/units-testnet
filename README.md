@@ -18,7 +18,7 @@ Script bot ini adalah script auto transfer ETH ke random adress di Jaringan Unit
 ### Clone Repositori
 ```
 git clone https://github.com/PrastianHD/units-testnet.git
-cd unit-testnet
+cd units-testnet
 ```
 
 ### Instal Dependensi
