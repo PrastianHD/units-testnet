@@ -37,5 +37,6 @@ PRIVATE_KEY="your_private_key"
 
 ### Run script
 ```
-npm run start
+npm start
 ```
+
