@@ -42,10 +42,7 @@ npm start
 ## Installation for PY using TERMUX
 ### Instal Preparation
 ```
-pkg update
-pkg upgrade -y
-pkg install git
-pkg install python
+pkg update && pkg upgrade && pkg install git && pkg install python
 ```
 ### Clone Repositori
 ```
