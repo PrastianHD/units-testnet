@@ -14,7 +14,7 @@ Script bot ini adalah script auto transfer ETH ke random adress di Jaringan Unit
 - Default is 100,000 random address
 - Support logs Timeswap dan SUCCESS
 
-# Installation for JS
+## Installation for JS
 ### Clone Repositori
 ```
 git clone https://github.com/PrastianHD/units-testnet.git
@@ -39,7 +39,7 @@ PRIVATE_KEY="your_private_key"
 ```
 npm start
 ```
-# Installation for PY using TERMUX
+## Installation for PY using TERMUX
 ### Instal Preparation
 ```
 pkg update
