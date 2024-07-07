@@ -55,7 +55,8 @@ cd units-testnet
 
 ### Install Requirements
 ```
-pip install -r requirements.txt
+pip install web3
+pip install colorama
 ```
 
 ### Run Script
