@@ -9,12 +9,12 @@ Script bot ini adalah script auto transfer ETH ke random adress di Jaringan Unit
 2. Join Program [Testnet Units Network](https://app.units.network/?referral=0x000000DE3b4CD31742711440C1283b162035E00E)
 3. Claim [FAUCET](https://faucet-testnet.unit0.dev/)
 
-# Feature
+## Feature
 - Auto transfer to random address
 - Default is 100,000 random address
 - Support logs Timeswap dan SUCCESS
 
-## Installation for JS
+# Installation for JS
 ### Clone Repositori
 ```
 git clone https://github.com/PrastianHD/units-testnet.git
@@ -39,7 +39,7 @@ PRIVATE_KEY="your_private_key"
 ```
 npm start
 ```
-## Installation for PY using TERMUX
+# Installation for PY using TERMUX
 ### Instal Preparation
 ```
 pkg update
